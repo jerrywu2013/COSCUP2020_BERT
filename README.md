@@ -1,1 +1,1 @@
-# Coscup2020_BERT
+# COSCUP2020_BERT
